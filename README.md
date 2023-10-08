@@ -12,9 +12,9 @@ Machine learning is a dynamic and exciting field with applications ranging from 
 
 2. **Daily Commitment**: I commit to dedicating at least 1-2 hours every day for the next 100 days to study and practice machine learning. Consistency is the key to success.
 
-3. **Programming Language**: I've chosen [your chosen programming language] as my primary language for machine learning. However, feel free to use any language that suits your preferences.
+3. **Programming Language**: I've chosen python as my primary language for machine learning. However, feel free to use any language that suits your preferences.
 
-4. **Environment Setup**: My development environment includes [list your setup details, e.g., Python, TensorFlow, Jupyter Notebook, etc.]. Make sure to have the necessary libraries and tools installed.
+4. **Environment Setup**: My development environment includes  Python, Jupyter Notebook, etc.
 
 ## Daily Tasks
 
